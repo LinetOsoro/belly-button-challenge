@@ -1,3 +1,5 @@
+The interactive dashboard link: https://linetosoro.github.io/belly-button-challenge/
+
 
 Build an interactive dashboard to explore the Belly Button Biodiversity dataset; which catalogs the microbes that colonize human navels.
 
